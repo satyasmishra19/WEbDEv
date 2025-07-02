@@ -1,0 +1,1 @@
+parseInt(prompt('Please enter your 2nd number: '))
